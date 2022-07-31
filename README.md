@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Full Stack Javascript Developer
 - 💞️ I’m looking to collaborate on Software development
-- 📫 How to reach me .....
+- 📫 Reach me at gaurav.shah1710@gmail.com
 
 <!---
 GauravShah89/GauravShah89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
